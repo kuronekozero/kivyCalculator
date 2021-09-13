@@ -1,2 +1,3 @@
 # kivyCalculator
- Just a simple calculator 
+ Just a simple calculator that I wrote when learnt kivy library.
+ 
